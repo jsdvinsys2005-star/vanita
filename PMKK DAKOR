@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PMKK DAKOR</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial;
+    background:#f2f2f2;
+}
+
+header{
+    background:#156c55;
+    color:white;
+    padding:20px;<!DOCTYPE html>
+<html>
+<head>
+<title>PMKK Dakor</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial;
+    background:#f2f2f2;
+}
+
+header{
+    background:#156c55;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+nav{
+    background:#222;
+    padding:12px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+}
+
+.box{
+    background:white;
+    margin:20px auto;
+    padding:25px;
+    width:80%;
+    text-align:center;
+    border-radius:10px;
+}
+
+button{
+    background:#156c55;
+    color:white;
+    padding:10px 20px;
+    border:0;
+    border-radius:5px;
+}
+
+footer{
+    background:#156c55;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>PMKK DAKOR</h1>
+<p>Pradhan Mantri Kaushal Kendra</p>
+</header>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#courses">Courses</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<div class="box" id="home">
+<h2>Welcome to PMKK Dakor</h2>
+<p>Learn Skills, Build Your Career</p>
+<button>Join Now</button>
+</div>
+
+<div class="box" id="courses">
+<h2>Our Courses</h2>
+<p>💻 junior software developer</p>
+<p>🔧 nursing</p>
+<p>🏢 solar training</p>
+<p>🛠️ siva</p>
+</div>
+
+<div class="box" id="about">
+<h2>About PMKK</h2>
+<p>PMKK Dakor provides skill development and career training programs for students and learners.</p>
+</div>
+
+<div class="box" id="contact">
+<h2>Contact Us</h2>
+<p>📍 Dakor, Gujarat</p>
+<p>📞 Phone: 8320630971</p>
+<p>📧 Email:jsdvinsys2005@gmail.com</p>
+</div>
+
+<footer>
+<p>© 2026 PMKK Dakor | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
+    text-align:center;
+}
+
+nav{
+    background:#222;
+    padding:12px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+}
+
+.box{
+    background:white;
+    margin:20px auto;
+    padding:25px;
+    width:80%;
+    text-align:center;
+    border-radius:10px;
+}
+
+button{
+    background:#156c55;
+    color:white;
+    padding:10px 20px;
+    border:0;
+    border-radius:5px;
+}
+
+footer{
+    background:#156c55;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>PMKK DAKOR</h1>
+<p>Pradhan Mantri Kaushal Kendra</p>
+</header>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#courses">Courses</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<div class="box" id="home">
+<h2>Welcome to PMKK Dakor</h2>
+<p>Learn Skills, Build Your Career</p>
+<button>Join Now</button>
+</div>
+
+<div class="box" id="courses">
+<h2>Our Courses</h2>
+<p>💻 junior software developer</p>
+<p>🔧 nursing</p>
+<p>🏢 solar training</p>
+<p>🛠️ siva</p>
+</div>
+
+<div class="box" id="about">
+<h2>About PMKK</h2>
+<p>PMKK Dakor provides skill development and career training programs for students and learners.</p>
+</div>
+
+<div class="box" id="contact">
+<h2>Contact Us</h2>
+<p>📍 Dakor, Gujarat</p>
+<p>📞 Phone: 8320630971</p>
+<p>📧 Email:jsdvinsys2005@gmail.com</p>
+</div>
+
+<footer>
+<p>© 2026 PMKK Dakor | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
