@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Table</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background-color: lightblue;
+            text-align: center;
+        }
+
+        h2 {
+            color: darkblue;
+        }
+
+        table {
+            width: 70%;
+            margin: auto;
+            border-collapse: collapse;
+            background-color: white;
+        }
+
+        th {
+            background-color: darkblue;
+            color: white;
+            padding: 12px;
+        }
+
+        td {
+            padding: 10px;
+            border: 1px solid black;
+        }
+
+        tr:hover {
+            background-color: lightyellow;
+        }
+    </style>
+</head>
+
+<body>
+
+<h2>Student Details</h2>
+
+<table>
+    <tr>
+        <th>Roll No</th>
+        <th>Name</th>
+        <th>Course</th>
+        <th>Marks</th>
+    </tr>
+
+    <tr>
+        <td>1</td>
+        <td>Rahul</td>
+        <td>BCA</td>
+        <td>85</td>
+    </tr>
+
+    <tr>
+        <td>2</td>
+        <td>Tejal</td>
+        <td>BCA</td>
+        <td>90</td>
+    </tr>
+
+    <tr>
+        <td>3</td>
+        <td>Janki</td>
+        <td>BCA</td>
+        <td>78</td>
+    </tr>
+
+    <tr>
+        <td>4</td>
+        <td>Rina</td>
+        <td>BCA</td>
+        <td>88</td>
+    </tr>
+</table>
+
+</body>
+</html>
